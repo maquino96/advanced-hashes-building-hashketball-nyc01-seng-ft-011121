@@ -32,4 +32,5 @@ def game_hash
         ]
     }
   }
+manual_hash
 end
